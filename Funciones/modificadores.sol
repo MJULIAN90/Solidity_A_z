@@ -44,4 +44,6 @@ contract view_pure_payable{
     function verSaldo() public view returns(cartera memory){
         return DineroCartera[msg.sender];
     }
+    
+    
 }
