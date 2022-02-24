@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nombre",
+						"type": "string"
+					}
+				],
+				"name": "nuevoCliente",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"interactuar con smart contracts/herencia.sol": "Banco"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"interactuar con smart contracts/herencia.sol": {
+			"keccak256": "0xea0071f0804713e2bf284793691e2bcfca847de946ee94246d5bd505be64cbcc",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://93a5645292b0272dd685233f604446343d735f762b91d586c0e8f6cf5bba3609",
+				"dweb:/ipfs/QmTJSmQBk5SGUMfHu12iXDZSMnHfAtSiuCKnWULhFxhEKE"
+			]
+		}
+	},
+	"version": 1
+}
